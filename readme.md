@@ -4,3 +4,5 @@
 * Water
 * Tomatoes
 * Yeast
+* Pepperoni
+* Sausage
